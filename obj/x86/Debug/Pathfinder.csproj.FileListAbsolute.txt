@@ -1,0 +1,268 @@
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Computing\Documents\Visual Studio 2015\Projects\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Computing\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Patrick\Desktop\AI Workshops\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\(Old)\Pathfinder-CMP2020M-1819-VS17-MG36\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+E:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+D:\Second Year\Semester 2\Artificial Intelligence\Solution\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
